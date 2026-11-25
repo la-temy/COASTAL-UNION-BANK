@@ -49,3 +49,4 @@ The exercise uses three stages:
 ## Skills Demonstrated
 Crisis management, business continuity, disaster recovery, stakeholder communication, third-party risk coordination and GRC exercise design.
 
+**[View Full Project Report (PDF)](https://drive.google.com/file/d/1DmB8HQcQZNxODbqAIxu3DZEav7pMa6-j/view?usp=sharing)**
